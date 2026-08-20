@@ -1,0 +1,5 @@
+# 여기엔 잠근 파일 하나만 둔다. 원본·비밀번호는 절대 올리지 않는다.
+*
+!.gitignore
+!index.html
+!README.md
